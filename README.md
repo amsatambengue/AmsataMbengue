@@ -8,16 +8,16 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 
 ---
 
-##  About Me
--  5+ years of experience in software development, including **3 years in MuleSoft integration**.  
--  Strong expertise in **Keycloak, OAuth2, and API security**.  
--  Experienced with **CI/CD, Docker, Kubernetes, Runtime Fabric, Jenkins, Nexus, and SonarQube**.  
--  Bilingual — fluent in English and French.  
--  Founder of **AmsaTech**, a consulting initiative focused on API integration and automation.
+## 🚀 About Me
+- 🧩 5+ years of experience in software development, including **3 years in MuleSoft integration**.  
+- 🔐 Strong expertise in **Keycloak, OAuth2, and API security**.  
+- ⚙️ Experienced with **CI/CD, Docker, Kubernetes, Runtime Fabric, Jenkins, Nexus, and SonarQube**.  
+- 💬 Bilingual — fluent in English and French.  
+- 🏗️ Founder of **AmsaTech**, a consulting initiative focused on API integration and automation.
 
 ---
 
-## Tech Stack
+## 🧠 Tech Stack
 | Domain | Tools / Technologies |
 |---------|----------------------|
 | **Integration** | MuleSoft, DataWeave, RAML, Flex Gateway |
@@ -28,18 +28,18 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 
 ---
 
-## Featured Projects (Portfolio)
+## 🧩 Featured Projects (Portfolio)
 | Project | Description | Link |
 |----------|--------------|------|
 | **MuleSoft + Keycloak POC** | Demonstrates securing APIs with JWT & OAuth2 using Keycloak. | [View Repo](https://github.com/AmsataMbengue/portfolio/tree/main/portfolio/mulesoft-keycloak-poc) |
 | **Flex Gateway Demo** | Example of local API gateway setup with security and analytics. | (coming soon) |
 | **Runtime Fabric CI/CD** | Jenkins + Nexus pipeline for deploying MuleSoft apps on RTF. | (coming soon) |
 
-> Full portfolio available in the [portfolio repository](https://github.com/AmsataMbengue/portfolio)
+> 🧭 Full portfolio available in the [portfolio repository](https://github.com/AmsataMbengue/portfolio)
 
 ---
 
-## Latest Medium Articles
+## ✍️ Latest Medium Articles
 | Topic | Read |
 |--------|------|
 | **JWT et OAuth2 – Sécuriser vos backends avec MuleSoft et Keycloak** | [Read on Medium](https://medium.com/@amsatambengue/jwt-et-oauth2-s%C3%A9curiser-vos-backends-avec-mulesoft-et-keycloak-d83387ee61a0) |
@@ -48,7 +48,7 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 
 ---
 
-## Professional Philosophy
+## 🧭 Professional Philosophy
 > “Integration is not about tools — it’s about understanding the system’s language and teaching them to talk to each other securely.”
 
 ---
