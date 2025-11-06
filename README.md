@@ -31,8 +31,8 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 ## 🧩 Featured Projects (Portfolio)
 | Project | Description | Link |
 |----------|--------------|------|
-| **MuleSoft + Keycloak POC** | Demonstrates securing APIs with JWT & OAuth2 using Keycloak. | [View Repo](https://github.com/AmsataMbengue/portfolio/tree/main/portfolio/mulesoft-keycloak-poc) |
-| **Flex Gateway Demo** | Example of local API gateway setup with security and analytics. | (coming soon) |
+| **MuleSoft + Keycloak POC** | Demonstrates securing APIs with JWT & OAuth2 using Keycloak. | [View Repo](https://github.com/amsatambengue/medium-articles/tree/main/mulesoft-keycloak-poc) |
+| **Integrating MuleSoft and Email Automation** | How to Trigger Mule Flows on New Mail Arrival. | (coming soon) |
 | **Runtime Fabric CI/CD** | Jenkins + Nexus pipeline for deploying MuleSoft apps on RTF. | (coming soon) |
 
 > 🧭 Full portfolio available in the [portfolio repository](https://github.com/AmsataMbengue/portfolio)
