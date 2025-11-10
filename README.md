@@ -43,7 +43,7 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 | Topic | Read |
 |--------|------|
 | **JWT et OAuth2 – Sécuriser vos backends avec MuleSoft et Keycloak** | [Read on Medium](https://medium.com/@amsatambengue/jwt-et-oauth2-s%C3%A9curiser-vos-backends-avec-mulesoft-et-keycloak-d83387ee61a0) |
-| **Integrating MuleSoft and Email Automation** | [Read on Medium]([https://medium.com/@amsatambengue/jwt-et-oauth2-s%C3%A9curiser-vos-backends-avec-mulesoft-et-keycloak-d83387ee61a0](https://medium.com/@amsatambengue/integrating-mulesoft-and-email-automation-6fa17cfa81af)) |
+| **Integrating MuleSoft and Email Automation** | | [Read on Medium](https://medium.com/@amsatambengue/integrating-mulesoft-and-email-automation-6fa17cfa81af) |
 | **Flex Gateway vs API Manager** *(coming soon)* | (in progress) |
 | **CI/CD sur Runtime Fabric avec Jenkins et Nexus** *(coming soon)* | (in progress) |
 
