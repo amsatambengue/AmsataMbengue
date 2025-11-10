@@ -8,16 +8,16 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 
 ---
 
-## 🚀 About Me
-- 🧩 5+ years of experience in software development, including **3 years in MuleSoft integration**.  
-- 🔐 Strong expertise in **Keycloak, OAuth2, and API security**.  
-- ⚙️ Experienced with **CI/CD, Docker, Kubernetes, Runtime Fabric, Jenkins, Nexus, and SonarQube**.  
-- 💬 Bilingual — fluent in English and French.  
-- 🏗️ Founder of **AmsaTech**, a consulting initiative focused on API integration and automation.
+## About Me
+- 5+ years of experience in software development, including **3 years in MuleSoft integration**.  
+- Strong expertise in **Keycloak, OAuth2, and API security**.  
+- Experienced with **CI/CD, Docker, Kubernetes, Runtime Fabric, Jenkins, Nexus, and SonarQube**.  
+- Bilingual — fluent in English and French.  
+- Founder of **AmsaTech**, a consulting initiative focused on API integration and automation.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 | Domain | Tools / Technologies |
 |---------|----------------------|
 | **Integration** | MuleSoft, DataWeave, RAML, Flex Gateway |
@@ -28,14 +28,14 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 
 ---
 
-## 🧩 Featured Projects (Portfolio)
+## Portfolio
 | Project | Description | Link |
 |----------|--------------|------|
 | **MuleSoft + Keycloak POC** | Demonstrates securing APIs with JWT & OAuth2 using Keycloak. | [View Repo](https://github.com/amsatambengue/medium-articles/tree/main/mulesoft-keycloak-poc) |
 | **Integrating MuleSoft and Email Automation** | How to Trigger Mule Flows on New Mail Arrival. | (coming soon) |
 | **Runtime Fabric CI/CD** | Jenkins + Nexus pipeline for deploying MuleSoft apps on RTF. | (coming soon) |
 
-> 🧭 Full portfolio available in the [portfolio repository](https://github.com/AmsataMbengue/portfolio)
+> Full portfolio available in the [portfolio repository]([https://github.com/AmsataMbengue/portfolio](https://github.com/amsatambengue/medium-articles))
 
 ---
 
@@ -43,12 +43,13 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 | Topic | Read |
 |--------|------|
 | **JWT et OAuth2 – Sécuriser vos backends avec MuleSoft et Keycloak** | [Read on Medium](https://medium.com/@amsatambengue/jwt-et-oauth2-s%C3%A9curiser-vos-backends-avec-mulesoft-et-keycloak-d83387ee61a0) |
+| **Integrating MuleSoft and Email Automation** | [Read on Medium]([https://medium.com/@amsatambengue/jwt-et-oauth2-s%C3%A9curiser-vos-backends-avec-mulesoft-et-keycloak-d83387ee61a0](https://medium.com/@amsatambengue/integrating-mulesoft-and-email-automation-6fa17cfa81af)) |
 | **Flex Gateway vs API Manager** *(coming soon)* | (in progress) |
 | **CI/CD sur Runtime Fabric avec Jenkins et Nexus** *(coming soon)* | (in progress) |
 
 ---
 
-## 🧭 Professional Philosophy
+## Professional Philosophy
 > “Integration is not about tools — it’s about understanding the system’s language and teaching them to talk to each other securely.”
 
 ---
@@ -60,9 +61,9 @@ Découvrez mes articles sur [Medium](https://medium.com/@amsatambengue) et mes p
 
 ---
 
-## 📫 Contact
+## Contact
 📧 **amsata.mbengue@gmail.com**  
 🌍 **Dakar, Senegal**
 
 ---
-⭐️ *If you find my work useful, feel free to star the repositories or connect on LinkedIn!*
+*If you find my work useful, feel free to star the repositories or connect on LinkedIn!*
