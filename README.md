@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amsata Mbengue
+# 👋 Hi, I'm Amsata
 
 **Integration & DevOps Consultant — MuleSoft | API | Security | CI/CD**
 
