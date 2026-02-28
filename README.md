@@ -6,7 +6,7 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/amsatambengue) | [Medium](https://medium.com/@amsatambengue)
 
-📬 For collaboration or roles: amsata.mbengue@gmail.com
+📬 amsata.mbengue@gmail.com
 
 ---
 
