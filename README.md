@@ -4,7 +4,7 @@
 
 I design and deploy secure API-led architectures for complex enterprise systems — mainly in the **banking and government** sectors.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/amsatambengue) | [Medium](https://medium.com/@amsatambengue)
+## 🔗 [LinkedIn](https://www.linkedin.com/in/amsatambengue) | [Medium](https://medium.com/@amsatambengue)
 
 📬 amsata.mbengue@gmail.com
 
