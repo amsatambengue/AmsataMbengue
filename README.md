@@ -33,13 +33,11 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 ## ✍️ Latest Medium Articles
 | Topic | Read | Repository |
 |--------|------|--------|
+| **Automatiser le déploiement MuleSoft avec Jenkins: CI/CD de bout en bout** | *(coming soon)* | [View Repo](https://github.com/amsatambengue/mulesoft-ci-cd-pipeline) |
 | **JWT et OAuth2 – Sécuriser vos backends avec MuleSoft et Keycloak** | [Read article](https://medium.com/@amsatambengue/jwt-et-oauth2-s%C3%A9curiser-vos-backends-avec-mulesoft-et-keycloak-d83387ee61a0) | [View Repo](https://github.com/amsatambengue/medium-articles/tree/main/mulesoft-keycloak-poc) |
+| **End-to-End One-Way TLS Security Between Mule Applications** | [Read article](https://medium.com/@amsatambengue/end-to-end-one-way-tls-security-between-mule-applications-8916dd895ab4) | *(coming soon)* |
+| **Keycloak minimal setup pour MuleSoft + erreurs fréquentes** | [Read article](https://medium.com/@amsatambengue/keycloak-minimal-setup-pour-mulesoft-realm-client-user-erreurs-fréquentes-a976620f3c98) | (in progress) |
 | **Integrating MuleSoft and Email Automation** | [Read article](https://medium.com/@amsatambengue/integrating-mulesoft-and-email-automation-6fa17cfa81af) | (in progress) |
-| **Secure Endpoints with One-Way TLS** | *(coming soon)* | *(coming soon)* |
-| **Secure Endpoints with mTLS** | *(coming soon)* | *(coming soon)* |
-| **Flex Gateway vs API Manager** | *(coming soon)* | *(coming soon)* |
-| **CI/CD Pipeline with Jenkins** | *(coming soon)* | [View Repo](https://github.com/amsatambengue/mulesoft-ci-cd-pipeline) |
-| **CI/CD sur Runtime Fabric avec Jenkins et Nexus** | *(coming soon)* | *(coming soon)* |
 
 ---
 
