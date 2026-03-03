@@ -30,7 +30,7 @@ I design and deploy secure API-led architectures for complex enterprise systems 
 
 ---
 
-## ✍️ Latest Medium Articles
+## ✍️ Latest Articles
 | Topic | Read | Repository |
 |--------|------|--------|
 | **Automatiser le déploiement MuleSoft avec Jenkins: CI/CD de bout en bout** | *(coming soon)* | [View Repo](https://github.com/amsatambengue/mulesoft-ci-cd-pipeline) |
