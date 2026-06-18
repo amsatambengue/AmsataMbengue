@@ -26,16 +26,16 @@ I design backend applications, secure APIs and integration solutions for **banki
 |---------|----------------------|
 | **Backend** | Java, Spring Boot, Spring Data JPA, SQL |
 | **Frontend** | Angular, TypeScript, HTML, CSS |
-| **APIs & Integration** | MuleSoft ,REST, SOAP, DataWeave, RAML |
+| **APIs & Integration** | MuleSoft, REST, SOAP, DataWeave, RAML |
 | **Security** | OAuth2, Keycloak, JWT, TLS |
 | **CI/CD & DevOps** | Jenkins, Docker, Kubernetes, Nexus, SonarQube |
 
 ---
 
-## Featured Project --> LocaTrack
-A **full-stack** lease and tenant management application built to demonstrate clean architecture and realistic business workflows.
+## Featured Project: 🔗[LocaTrack](https://github.com/amsatambengue/locatrack)
+A work-in-progress **full-stack** lease management application designed around a modular monolith, explicit business workflows and traceable lease status transitions.
 
-**Stack**: Java 17 • Spring Boot • Angular • PostgreSQL • Spring Security • Docker
+**Stack:** Current focus: Java 17 • Spring Boot • PostgreSQL • REST APIs • Domain modeling
 
 ## ✍️ Latest Articles
 | Topic | Read | Repository |
