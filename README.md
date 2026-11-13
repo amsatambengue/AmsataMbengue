@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Amsata
 
-**Software & Integration Engineer | Java • Spring Boot • APIs • MuleSoft • Angular**
+**Integration Architect & Software Engineer**
 
-I design backend applications, secure APIs and integration solutions for **banking**, **customs** and other **critical enterprise environments**.
+I design secure, reliable and maintainable APIs, backend applications and system integration architectures
+Experience accross **banking**, **public sector** and other **critical enterprise environments**.
 
-## 🔗 [LinkedIn](https://www.linkedin.com/in/amsatambengue) | [Medium](https://medium.com/@amsatambengue)
-
-📬 amsata.mbengue@gmail.com
+## [LinkedIn](https://www.linkedin.com/in/amsatambengue) · [Medium](https://medium.com/@amsatambengue) · [Email](mailto:amsata.mbengue@gmail.com)
 
 ---
 
@@ -32,7 +31,7 @@ I design backend applications, secure APIs and integration solutions for **banki
 
 ---
 
-## Featured Project: 🔗[LocaTrack](https://github.com/amsatambengue/locatrack)
+## Featured Project: [LocaTrack](https://github.com/amsatambengue/locatrack)
 A work-in-progress **full-stack** lease management application designed around a modular monolith, explicit business workflows and traceable lease status transitions.
 
 **Stack:** Current focus: Java 17 • Spring Boot • PostgreSQL • REST APIs • Domain modeling
@@ -40,7 +39,8 @@ A work-in-progress **full-stack** lease management application designed around a
 ## Latest Articles
 | Topic | Read | Repository |
 |--------|------|--------|
-| **MuleSoft CI/CD with Jenkins** | *(coming soon)* | [View Repo](https://github.com/amsatambengue/mulesoft-ci-cd-pipeline) |
+| **From Raw JSON-RPC to the MCP Connector** | [Read article](https://medium.com/@amsatambengue/mcp-with-mulesoft-from-raw-json-rpc-to-the-mcp-connector-c1ca2dfdd8c5?sharedUserId=amsatambengue) | [View Repo](https://github.com/amsatambengue/articles/tree/main/mulesoft-mcp-jsonrpc) |
+| **MuleSoft CI/CD with Jenkins** | *(coming soon)* | [View Repo](https://github.com/amsatambengue/articles/tree/main/mulesoft-ci-cd-pipeline) |
 | **Securing MuleSoft APIs with JWT, OAuth2 and Keycloak** | [Read article](https://medium.com/@amsatambengue/jwt-et-oauth2-s%C3%A9curiser-vos-backends-avec-mulesoft-et-keycloak-d83387ee61a0) | [View Repo](https://github.com/amsatambengue/medium-articles/tree/main/mulesoft-keycloak-poc) |
 | **End-to-end TLS between Mule applications** | [Read article](https://medium.com/@amsatambengue/end-to-end-one-way-tls-security-between-mule-applications-8916dd895ab4) | [View Repo](https://github.com/amsatambengue/articles/tree/main/mulesoft-tls-poc) |
 | **Keycloak setup for MuleSoft** | [Read article](https://medium.com/@amsatambengue/keycloak-minimal-setup-pour-mulesoft-realm-client-user-erreurs-fréquentes-a976620f3c98) | N/A |
