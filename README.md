@@ -37,7 +37,7 @@ A work-in-progress **full-stack** lease management application designed around a
 
 **Stack:** Current focus: Java 17 • Spring Boot • PostgreSQL • REST APIs • Domain modeling
 
-## ✍️ Latest Articles
+## Latest Articles
 | Topic | Read | Repository |
 |--------|------|--------|
 | **MuleSoft CI/CD with Jenkins** | *(coming soon)* | [View Repo](https://github.com/amsatambengue/mulesoft-ci-cd-pipeline) |
